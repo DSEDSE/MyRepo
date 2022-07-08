@@ -1,0 +1,18 @@
+/*Belajar Text Style*/
+h1{
+	font-size: 150px;
+	/*color: skyblue;*/ /* color normal*/
+	/*color: #ff0000;*/ /* color hexadesimal bisa di cek pada website color picker*/
+	color: rgb(10,20,30); /*color menggunakan kadar RGB bisa di cek pada website color picker*/
+	text-decoration: line-through;/*none;underline; overline; line-throught;*/
+	text-transform: lowercase;
+}
+
+p{
+	text-align: left;/*left;center; right; justify;*/
+	text-indent: 100px; /*memberi indentasi pada text*/
+}
+
+a{
+	text-decoration: none;
+}
